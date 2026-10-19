@@ -1,6 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600&family=Noto+Serif+SC:wght@400;500;600&display=swap');
 
-:root{--paper:#f5f2ec;--ink:#25251f;--muted:#79776f;--line:#d8d3c9;--orange:#b76543;--serif:Georgia,"Noto Serif SC","Songti SC",serif;--sans:"DM Sans","PingFang SC","Microsoft YaHei",sans-serif;--mono:"DM Mono",monospace}
+:root{--paper:#f5f2ec;
+      --ink:#25251f;
+      --muted:#79776f;
+      --line:#d8d3c9;
+      --orange:#b76543;
+      --serif:Georgia,"Noto Serif SC","Songti SC",serif;
+      --sans:"DM Sans","PingFang SC","Microsoft YaHei",sans-serif;
+      --mono:"DM Mono",monospace}
+
 *{box-sizing:border-box}
 html{scroll-behavior:smooth;scroll-padding-top:90px}
 body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:14px;line-height:1.7}
