@@ -27,7 +27,6 @@ window.SITE_CONTENT = {
         "assets/150242900020 拷贝"
         "assets/150242900021 拷贝"
         "asstes/150242900021 拷贝"
-        
       ]
     },
     {
