@@ -17,7 +17,7 @@ window.SITE_CONTENT = {
       location: "中国 · 沙漠",
       date: "2025.09",
       shape: "landscape",
-      cover: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1400&q=85",
+      cover: "https://github.com/jingyeemin-eng/still-photography/blob/main/150206880002%20拷贝.jpg",
       alt: "夕阳下起伏的沙丘",
       story: "走到沙丘最高处时，太阳已经快要落下。脚下的沙粒松软，每一步都像在缓慢地退回原地。风把白天留下的热气吹散，远处的沙丘逐渐变成深浅不同的剪影。那一刻没有什么特别的事情发生，只是觉得，应该把这片光记下来。",
       gallery: [
