@@ -10,20 +10,19 @@ window.SITE_CONTENT = {
     {
       id: "desert-evening",
       number: "001",
-      title: "沙丘日落",
+      title: "览山公园",
       english: "The Last Light",
       category: "TRAVEL / FILM",
-      year: "2025",
-      location: "中国 · 沙漠",
-      date: "2025.09",
+      year: "2026",
+      location: "中国 · 银川",
+      date: "2026.07",
       shape: "landscape",
       cover: "assets/_DSC3451 拷贝1.jpg",
       alt: "开发网站怎么这么麻烦啊啊啊啊啊",
-      story: "走到沙丘最高处时，太阳已经快要落下。脚下的沙粒松软，每一步都像在缓慢地退回原地。风把白天留下的热气吹散，远处的沙丘逐渐变成深浅不同的剪影。那一刻没有什么特别的事情发生，只是觉得，应该把这片光记下来。",
+      story: "其实这组多数照片都是在中国花博园拍摄的，只是“览山公园”名字更好听一些，便用作组名了。那天阳光很温柔",
       gallery: [
-        "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1800&q=85",
-        "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?auto=format&fit=crop&w=1200&q=85",
         "assets/_DSC3451 拷贝1.jpg"
+        
       ]
     },
     {
