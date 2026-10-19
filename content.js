@@ -18,7 +18,7 @@ window.SITE_CONTENT = {
       date: "2025.09",
       shape: "landscape",
       cover: "assets/_DSC3451 拷贝1.jpg",
-      alt: "夕阳下起伏的沙丘",
+      alt: "开发网站怎么这么麻烦啊啊啊啊啊",
       story: "走到沙丘最高处时，太阳已经快要落下。脚下的沙粒松软，每一步都像在缓慢地退回原地。风把白天留下的热气吹散，远处的沙丘逐渐变成深浅不同的剪影。那一刻没有什么特别的事情发生，只是觉得，应该把这片光记下来。",
       gallery: [
         "https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1800&q=85",
